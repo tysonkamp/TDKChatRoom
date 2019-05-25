@@ -25,6 +25,7 @@ if (null == DEBUG || undefined == DEBUG) DEBUG = false // safe by default (cyber
 var TDKAuth = require('./TDKAuth.js')
 var tdkAuth = new TDKAuth(hashFunc, hashEncoding)
 
+var tdkAdmin = process.env.TDK_ADM_NAME
 usersHashedPwds[tdkAdmin] = process.env.TDK_ADM_PWD_HASHED
 var TDKUserMgr = require('./TDKUserMgr.js')
 var tdkUserMgr = new TDKUserMgr(tdkAuth, usersHashedPwds)

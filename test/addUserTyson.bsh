@@ -1,0 +1,21 @@
+#!/usr/local/bin/bash
+# Test positive case for adding user Tyson
+#
+
+export serverOutFile=./testOutput/addUserTysonTestServer.txt
+export clientOutFile=./testOutput/addUserTysonTestClientResult.txt
+export clientOutFileTrue=./testOutput/addUserTysonTestClientExpectedResult.txt
+
+node ../TDKChatServer.js 2>&1 > /dev/null & 
+sleep 2  # wait for server to come up
+echo -ne login admin,$TDK_ADM_PWD'\n'adduser tkamp,tyson'\n'quit'\n' | node $TDK_CHAT_DIR/TDKClient.js > $clientOutFile
+kill $!
+wait $! 2>/dev/null
+
+diff $clientOutFile $clientOutFileTrue
+if [ $? -eq 0 ] 
+then
+  echo "PASSED"
+else
+  echo "FAILED" >&2
+fi

@@ -1,0 +1,75 @@
+#!/usr/local/bin/bash
+# Test creating account for Tyson then jam 10+ pages of 
+# "The Stranger" through the server.  Tyson does all of the writing,
+# and Sarah is seeing chats echoed, then when done 'fentinman' logs
+# in and sees the most recent chat history.  The results are reported as 
+# success/failure for Tyson, Sarah and Fentinman at the conclusion of 
+# the test.
+#
+
+export tysonWritesListenerOutFile=./testOutput/tysonWritesListenerResult.txt
+export tysonWritesListenerOutFileTrue=./testOutput/tysonWritesListenerExpectedResult.txt
+export clientOutFile=./testOutput/tysonWritesClientResult.txt
+export clientOutFileTrue=./testOutput/tysonWritesClientExpectedResult.txt
+export thirdPersonOutFile=./testOutput/tysonWrites_Fent.txt
+export thirdPersonOutFileTrue=./testOutput/tysonWrites_FentExpectedResult.txt
+
+# start server background
+node ../TDKChatServer.js 2>&1 > /dev/null & 
+sleep 2  # wait for server to come up
+
+# Create accounts
+echo -ne login admin,$TDK_ADM_PWD'\n'adduser tkamp,tyson'\n'quit'\n' | node $TDK_CHAT_DIR/TDKClient.js 2>&1 > $clientOutFile
+echo -ne login admin,$TDK_ADM_PWD'\n'adduser spayne,sarah'\n'quit'\n' | node $TDK_CHAT_DIR/TDKClient.js 2>&1 >> $clientOutFile
+echo -ne login admin,$TDK_ADM_PWD'\n'adduser fentinman,fent'\n'quit'\n' | node $TDK_CHAT_DIR/TDKClient.js 2>&1 >> $clientOutFile
+
+# Login Sarah, background
+echo -ne login spayne,sarah'\n' | node $TDK_CHAT_DIR/TDKClient.js 2>&1 >$tysonWritesListenerOutFile &
+sleep 1
+
+#echo -ne login spayne,sarah'\n' | node $TDK_CHAT_DIR/TDKClient.js 2>&1 >$tysonWritesListenerOutFile &
+#sleep 2
+TRIP=0
+cat fromTheStrangerAlbertCamus.txt | \
+while read CMD; do
+  if [ 0 -eq $TRIP ]; then
+    TRIP=1
+    coproc tysonClient { node $TDK_CHAT_DIR/TDKClient.js 2>&1 >$clientOutFile; }
+    sleep 1
+    echo -ne login tkamp,tyson'\n' >&${tysonClient[1]}
+    sleep 1
+  fi
+  echo -ne me $CMD'\n' >&${tysonClient[1]}
+done
+
+# third person signs in, should see last 10 messages, background
+echo -ne login fentinman,fent'\n'quit'\n' | node $TDK_CHAT_DIR/TDKClient.js 2>&1 >$thirdPersonOutFile
+kill %1 # kill off TDKChatServer
+wait %1 2>/dev/null
+kill %2 # kill off Sarah client process
+wait %2 2>/dev/null
+
+diff $clientOutFile $clientOutFileTrue
+if [ $? -eq 0 ] 
+then
+  echo -ne  "Tyson: PASSED, "
+else
+  echo -ne  "Tyson: FAILED, " >&2
+fi
+
+
+diff $tysonWritesListenerOutFile $tysonWritesListenerOutFileTrue
+if [ $? -eq 0 ] 
+then
+  echo -ne  "Sarah: PASSED, "
+else
+  echo -ne "Sarah: FAILED, " >&2
+fi
+
+diff $thirdPersonOutFile $thirdPersonOutFileTrue
+if [ $? -eq 0 ] 
+then
+  echo "Fentinman: PASSED"
+else
+  echo "Fentinman: FAILED" >&2
+fi

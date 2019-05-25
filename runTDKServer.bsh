@@ -1,0 +1,4 @@
+#!/bin/bash
+. ./TDKEnv.bsh
+node TDKChatServer.js
+

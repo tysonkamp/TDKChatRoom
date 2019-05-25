@@ -1,0 +1,36 @@
+#!/usr/local/bin/bash
+# Test positive and many negative cases for logging in the Tyson
+#
+
+export serverOutFile=./testOutput/loginTysonTestServer.txt
+export clientOutFile=./testOutput/loginTysonTestClientResult.txt
+export clientOutFileTrue=./testOutput/loginTysonTestClientExpectedResult.txt
+
+node ../TDKChatServer.js 2>&1 >/dev/null & 
+sleep 2  # wait for server to come up
+
+echo -ne login admin,$TDK_ADM_PWD'\n'adduser tkamp,tyson'\n'quit'\n' | node $TDK_CHAT_DIR/TDKClient.js > $clientOutFile
+
+coproc tysonClient { node $TDK_CHAT_DIR/TDKClient.js >> $clientOutFile; }
+echo -ne login ,tyson'\n' >&${tysonClient[1]}
+echo -ne login tkamp,'\n' >&${tysonClient[1]}
+echo -ne login tkamp,tysonfubar'\n' >&${tysonClient[1]}
+echo -ne login ,,'\n' >&${tysonClient[1]}
+echo -ne login '\n' >&${tysonClient[1]}
+echo -ne login'\n' >&${tysonClient[1]}
+echo -ne login tkamp,tyson'\n'adduser f,f'\n' >&${tysonClient[1]}
+echo -ne login tkamp,tyson'\n'quit'\n' >&${tysonClient[1]}
+
+sleep 1
+#kill $tysonClient_PID 
+kill %1 2>/dev/null
+wait %1 2>/dev/null
+   
+
+diff $clientOutFile $clientOutFileTrue
+if [ $? -eq 0 ] 
+then
+  echo "PASSED"
+else
+  echo "FAILED" >&2
+fi

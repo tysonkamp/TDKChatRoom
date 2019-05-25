@@ -1,0 +1,22 @@
+{
+  "name": "tdkchatroom",
+  "version": "1.0.0",
+  "description": "Simple chat room",
+  "main": "tdkChatRoom.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "es-module-loader": "^2.2.8",
+    "eslint": "^4.11.0"
+  },
+  "devDependencies": {
+    "eslint-config-google": "^0.9.1",
+    "mocha": "^4.0.1"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Tyson Kamp",
+  "license": "ISC"
+}

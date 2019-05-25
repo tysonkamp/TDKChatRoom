@@ -1,0 +1,24 @@
+Connecting to 8080
+[MSG]: User fentinman authenticated successfully.
+[MSG]: tkamp says > because of the wrinkles they couldn’t flow down. They spread out, crisscrossed, and
+[MSG]: 
+[MSG]: tkamp says > formed a smooth gloss on the old, worn face.
+[MSG]: 
+[MSG]: tkamp says > And I can remember the look of the church, the villagers in the street, the red
+[MSG]: 
+[MSG]: tkamp says > geraniums on the graves, Pérez’s fainting fit—he crumpled up like a rag doll—the
+[MSG]: 
+[MSG]: tkamp says > tawny-red earth pattering on Mother’s coffin, the bits of white roots mixed up with it;
+[MSG]: 
+[MSG]: tkamp says > 12
+[MSG]: 
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: 
+[MSG]: tkamp says > then more people, voices, the wait outside a café for the bus, the rumble of the
+[MSG]: 
+[MSG]: tkamp says > engine, and my little thrill of pleasure when we entered the first brightly lit streets of
+[MSG]: 
+[MSG]: tkamp says > Algiers, and I pictured myself going straight to bed and sleeping twelve hours at a
+[MSG]: 
+[MSG]: Goodbye.
+Quitting.

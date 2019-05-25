@@ -1,0 +1,7 @@
+#!/usr/local/bin/bash
+# Run a bunch of bash scripts that are functional tests
+
+echo -ne "Testing admin login..."; ./loginAdmin.bsh
+echo -ne "Testing add user spayne (Sarah)..."; ./addUserSarah.bsh
+echo -ne "Testing tkamp login (hits many error code paths in login cmd)..."; ./loginTyson.bsh
+echo -ne "Testing tkamp writes part of a book to another listener, third listener joins later..."; ./tysonWritesCamus.bsh

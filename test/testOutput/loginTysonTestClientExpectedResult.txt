@@ -1,0 +1,18 @@
+Connecting to 8080
+[MSG]: User admin authenticated successfully.
+[MSG]: User tkamp added successfully.
+[MSG]: Goodbye.
+Quitting.
+Connecting to 8080
+[MSG]: Missing username or password. Command must be of the form 'login u,p'.
+[MSG]: Missing username or password. Command must be of the form 'login u,p'.
+[MSG]: Failed to authenticate.
+[MSG]: Command must be of the form 'login u,p'.
+[MSG]: Command must be of the form 'login u,p'.
+[MSG]: Command must be of the form 'login u,p'.
+[MSG]: User tkamp authenticated successfully.
+[MSG]: Unknown command: adduser f,f
+[MSG]: 
+[MSG]: User tkamp authenticated successfully.
+[MSG]: Goodbye.
+Quitting.

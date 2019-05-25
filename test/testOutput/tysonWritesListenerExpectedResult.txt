@@ -1,0 +1,378 @@
+Connecting to 8080
+[MSG]: User spayne authenticated successfully.
+[MSG]: tkamp has joined.
+[MSG]: tkamp says > MOTHER died today. Or, maybe, yesterday; I can’t be sure. The telegram from the
+[MSG]: tkamp says > Home says: YOUR MOTHER PASSED AWAY. FUNERAL TOMORROW. DEEP
+[MSG]: tkamp says > SYMPATHY. Which leaves the matter doubtful; it could have been yesterday.
+[MSG]: tkamp says > The Home for Aged Persons is at Marengo, some fifty miles from Algiers. With
+[MSG]: tkamp says > the two o’clock bus I should get there well before nightfall. Then I can spend the
+[MSG]: tkamp says > night there, keeping the usual vigil beside the body, and be back here by tomorrow
+[MSG]: tkamp says > evening. I have fixed up with my employer for two days’ leave; obviously, under the
+[MSG]: tkamp says > circumstances, he couldn’t refuse. Still, I had an idea he looked annoyed, and I said,
+[MSG]: tkamp says > without thinking: “Sorry, sir, but it’s not my fault, you know.”
+[MSG]: tkamp says > Afterwards it struck me I needn’t have said that. I had no reason to excuse myself;
+[MSG]: tkamp says > it was up to him to express his sympathy and so forth. Probably he will do so the day
+[MSG]: tkamp says > after tomorrow, when he sees me in black. For the present, it’s almost as if Mother
+[MSG]: tkamp says > weren’t really dead. The funeral will bring it home to me, put an official seal on it, so
+[MSG]: tkamp says > to speak. ...
+[MSG]: tkamp says > I took the two-o’clock bus. It was a blazing hot afternoon. I’d lunched, as usual, at
+[MSG]: tkamp says > Céleste’s restaurant. Everyone was most kind, and Céleste said to me, “There’s no
+[MSG]: tkamp says > one like a mother.” When I left they came with me to the door. It was something of a
+[MSG]: tkamp says > rush, getting away, as at the last moment I had to call in at Emmanuel’s place to
+[MSG]: tkamp says > borrow his black tie and mourning band. He lost his uncle a few months ago.
+[MSG]: tkamp says > I had to run to catch the bus. I suppose it was my hurrying like that, what with the
+[MSG]: tkamp says > glare off the road and from the sky, the reek of gasoline, and the jolts, that made me
+[MSG]: tkamp says > feel so drowsy. Anyhow, I slept most of the way. When I woke I was leaning against
+[MSG]: tkamp says > a soldier; he grinned and asked me if I’d come from a long way off, and I just
+[MSG]: tkamp says > nodded, to cut things short. I wasn’t in a mood for talking.
+[MSG]: tkamp says > The Home is a little over a mile from the village. I went there on foot. I asked to
+[MSG]: tkamp says > be allowed to see Mother at once, but the doorkeeper told me I must see the warden
+[MSG]: tkamp says > first. He wasn’t free, and I had to wait a bit. The doorkeeper chatted with me while I
+[MSG]: tkamp says > waited; then he led me to the office. The warden was a very small man, with gray
+[MSG]: tkamp says > hair, and a Legion of Honor rosette in his buttonhole. He gave me a long look with
+[MSG]: tkamp says > his watery blue eyes. Then we shook hands, and he held mine so long that I began to
+[MSG]: tkamp says > feel embarrassed. After that he consulted a register on his table, and said:
+[MSG]: tkamp says > “Madame Meursault entered the Home three years ago. She had no private means
+[MSG]: tkamp says > and depended entirely on you.”
+[MSG]: tkamp says > 4
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: tkamp says > I had a feeling he was blaming me for something, and started to explain. But he
+[MSG]: tkamp says > cut me short.
+[MSG]: tkamp says > “There’s no need to excuse yourself, my boy. I’ve looked up the record and
+[MSG]: tkamp says > obviously you weren’t in a position to see that she was properly cared for. She
+[MSG]: tkamp says > needed someone to be with her all the time, and young men in jobs like yours don’t
+[MSG]: tkamp says > get too much pay. In any case, she was much happier in the Home.”
+[MSG]: tkamp says > I said, “Yes, sir; I’m sure of that.”
+[MSG]: tkamp says > Then he added: “She had good friends here, you know, old folks like herself, and
+[MSG]: tkamp says > one gets on better with people of one’s own generation. You’re much too young; you
+[MSG]: tkamp says > couldn’t have been much of a companion to her.”
+[MSG]: tkamp says > That was so. When we lived together, Mother was always watching me, but we
+[MSG]: tkamp says > hardly ever talked. During her first few weeks at the Home she used to cry a good
+[MSG]: tkamp says > deal. But that was only because she hadn’t settled down. After a month or two she’d
+[MSG]: tkamp says > have cried if she’d been told to leave the Home. Because this, too, would have been a
+[MSG]: tkamp says > wrench. That was why, during the last year, I seldom went to see her. Also, it would
+[MSG]: tkamp says > have meant losing my Sunday—not to mention the trouble of going to the bus,
+[MSG]: tkamp says > getting my ticket, and spending two hours on the journey each way.
+[MSG]: tkamp says > The warden went on talking, but I didn’t pay much attention. Finally he said:
+[MSG]: tkamp says > “Now, I suppose you’d like to see your mother?”
+[MSG]: tkamp says > I rose without replying, and he led the way to the door. As we were going down
+[MSG]: tkamp says > the stairs he explained:
+[MSG]: tkamp says > “I’ve had the body moved to our little mortuary—so as not to upset the other old
+[MSG]: tkamp says > people, you understand. Every time there’s a death here, they’re in a nervous state for
+[MSG]: tkamp says > two or three days. Which means, of course, extra work and worry for our staff.”
+[MSG]: tkamp says > We crossed a courtyard where there were a number of old men, talking amongst
+[MSG]: tkamp says > themselves in little groups. They fell silent as we came up with them. Then, behind
+[MSG]: tkamp says > our backs, the chattering began again. Their voices reminded me of parakeets in a
+[MSG]: tkamp says > cage, only the sound wasn’t quite so shrill. The warden stopped outside the entrance
+[MSG]: tkamp says > of a small, low building.
+[MSG]: tkamp says > “So here I leave you, Monsieur Meursault. If you want me for anything, you’ll
+[MSG]: tkamp says > find me in my office. We propose to have the funeral tomorrow morning. That will
+[MSG]: tkamp says > enable you to spend the night beside your mother’s coffin, as no doubt you would
+[MSG]: tkamp says > wish to do. Just one more thing; I gathered from your mother’s friends that she
+[MSG]: tkamp says > wished to be buried with the rites of the Church. I’ve made arrangements for this; but
+[MSG]: tkamp says > I thought I should let you know.”
+[MSG]: tkamp says > I thanked him. So far as I knew, my mother, though not a professed atheist, had
+[MSG]: tkamp says > never given a thought to religion in her life.
+[MSG]: tkamp says > I entered the mortuary. It was a bright, spotlessly clean room, with whitewashed
+[MSG]: tkamp says > walls and a big skylight. The furniture consisted of some chairs and trestles. Two of
+[MSG]: tkamp says > the latter stood open in the center of the room and the coffin rested on them. The lid
+[MSG]: tkamp says > 5
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: tkamp says > was in place, but the screws had been given only a few turns and their nickeled heads
+[MSG]: tkamp says > stuck out above the wood, which was stained dark walnut. An Arab woman—a
+[MSG]: tkamp says > nurse, I supposed—was sitting beside the bier; she was wearing a blue smock and
+[MSG]: tkamp says > had a rather gaudy scarf wound round her hair.
+[MSG]: tkamp says > Just then the keeper came up behind me. He’d evidently been running, as he was a
+[MSG]: tkamp says > little out of breath.
+[MSG]: tkamp says > “We put the lid on, but I was told to unscrew it when you came, so that you could
+[MSG]: tkamp says > see her.”
+[MSG]: tkamp says > While he was going up to the coffin I told him not to trouble.
+[MSG]: tkamp says > “Eh? What’s that?” he exclaimed. “You don’t want me to ...?”
+[MSG]: tkamp says > “No,” I said.
+[MSG]: tkamp says > He put back the screwdriver in his pocket and stared at me. I realized then that I
+[MSG]: tkamp says > shouldn’t have said, “No,” and it made me rather embarrassed. After eying me for
+[MSG]: tkamp says > some moments he asked:
+[MSG]: tkamp says > “Why not?” But he didn’t sound reproachful; he simply wanted to know.
+[MSG]: tkamp says > “Well, really I couldn’t say,” I answered.
+[MSG]: tkamp says > He began twiddling his white mustache; then, without looking at me, said gently:
+[MSG]: tkamp says > “I understand.”
+[MSG]: tkamp says > He was a pleasant-looking man, with blue eyes and ruddy cheeks. He drew up a
+[MSG]: tkamp says > chair for me near the coffin, and seated himself just behind. The nurse got up and
+[MSG]: tkamp says > moved toward the door. As she was going by, the keeper whispered in my ear:
+[MSG]: tkamp says > “It’s a tumor she has, poor thing.”
+[MSG]: tkamp says > I looked at her more carefully and I noticed that she had a bandage round her head,
+[MSG]: tkamp says > just below her eyes. It lay quite flat across the bridge of her nose, and one saw hardly
+[MSG]: tkamp says > anything of her face except that strip of whiteness.
+[MSG]: tkamp says > As soon as she had gone, the keeper rose.
+[MSG]: tkamp says > “Now I’ll leave you to yourself.”
+[MSG]: tkamp says > I don’t know whether I made some gesture, but instead of going he halted behind
+[MSG]: tkamp says > my chair. The sensation of someone posted at my back made me uncomfortable. The
+[MSG]: tkamp says > sun was getting low and the whole room was flooded with a pleasant, mellow light.
+[MSG]: tkamp says > Two hornets were buzzing overhead, against the skylight. I was so sleepy I could
+[MSG]: tkamp says > hardly keep my eyes open. Without looking round, I asked the keeper how long he’d
+[MSG]: tkamp says > been at the Home. “Five years.” The answer came so pat that one could have thought
+[MSG]: tkamp says > he’d been expecting my question.
+[MSG]: tkamp says > That started him off, and he became quite chatty. If anyone had told him ten years
+[MSG]: tkamp says > ago that he’d end his days as doorkeeper at a home at Marengo, he’d never have
+[MSG]: tkamp says > believed it. He was sixty-four, he said, and hailed from Paris.
+[MSG]: tkamp says > When he said that, I broke in. “Ah, you don’t come from here?”
+[MSG]: tkamp says > I remembered then that, before taking me to the warden, he’d told me something
+[MSG]: tkamp says > about Mother. He had said she’d have to be buried mighty quickly because of the
+[MSG]: tkamp says > 6
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: tkamp says > heat in these parts, especially down in the plain. “At Paris they keep the body for
+[MSG]: tkamp says > three days, sometimes four.” After that he had mentioned that he’d spent the best part
+[MSG]: tkamp says > of his life in Paris, and could never manage to forget it. “Here,” he had said, “things
+[MSG]: tkamp says > have to go with a rush, like. You’ve hardly time to get used to the idea that
+[MSG]: tkamp says > someone’s dead, before you’re hauled off to the funeral.” “That’s enough,” his wife
+[MSG]: tkamp says > had put in. “You didn’t ought to say such things to the poor young gentleman.” The
+[MSG]: tkamp says > old fellow had blushed and begun to apologize. I told him it was quite all right. As a
+[MSG]: tkamp says > matter of fact, I found it rather interesting, what he’d been telling me; I hadn’t
+[MSG]: tkamp says > thought of that before.
+[MSG]: tkamp says > Now he went on to say that he’d entered the Home as an ordinary inmate. But he
+[MSG]: tkamp says > was still quite hale and hearty, and when the keeper’s job fell vacant, he offered to
+[MSG]: tkamp says > take it on.
+[MSG]: tkamp says > I pointed out that, even so, he was really an inmate like the others, but he wouldn’t
+[MSG]: tkamp says > hear of it. He was “an official, like.” I’d been struck before by his habit of saying
+[MSG]: tkamp says > “they” or, less often, “them old folks,” when referring to inmates no older than
+[MSG]: tkamp says > himself. Still, I could see his point of view. As doorkeeper he had a certain standing,
+[MSG]: tkamp says > and some authority over the rest of them.
+[MSG]: tkamp says > Just then the nurse returned. Night had fallen very quickly; all of a sudden, it
+[MSG]: tkamp says > seemed, the sky went black above the skylight. The keeper switched on the lamps,
+[MSG]: tkamp says > and I was almost blinded by the blaze of light.
+[MSG]: tkamp says > He suggested I should go to the refectory for dinner, but I wasn’t hungry. Then he
+[MSG]: tkamp says > proposed bringing me a mug of café au lait. As I am very partial to café au lait I
+[MSG]: tkamp says > said, “Thanks,” and a few minutes later he came back with a tray. I drank the coffee,
+[MSG]: tkamp says > and then I wanted a cigarette. But I wasn’t sure if I should smoke, under the
+[MSG]: tkamp says > circumstances—in Mother’s presence. I thought it over; really, it didn’t seem to
+[MSG]: tkamp says > matter, so I offered the keeper a cigarette, and we both smoked.
+[MSG]: tkamp says > After a while he started talking again.
+[MSG]: tkamp says > “You know, your mother’s friends will be coming soon, to keep vigil with you
+[MSG]: tkamp says > beside the body. We always have a ‘vigil’ here, when anyone dies. I’d better go and
+[MSG]: tkamp says > get some chairs and a pot of black coffee.”
+[MSG]: tkamp says > The glare off the white walls was making my eyes smart, and I asked him if he
+[MSG]: tkamp says > couldn’t turn off one of the lamps. “Nothing doing,” he said. They’d arranged the
+[MSG]: tkamp says > lights like that; either one had them all on or none at all. After that I didn’t pay much
+[MSG]: tkamp says > more attention to him. He went out, brought some chairs, and set them out round the
+[MSG]: tkamp says > coffin. On one he placed a coffeepot and ten or a dozen cups. Then he sat down
+[MSG]: tkamp says > facing me, on the far side of Mother. The nurse was at the other end of the room,
+[MSG]: tkamp says > with her back to me. I couldn’t see what she was doing, but by the way her arms
+[MSG]: tkamp says > moved I guessed that she was knitting. I was feeling very comfortable; the coffee had
+[MSG]: tkamp says > warmed me up, and through the open door came scents of flowers and breaths of
+[MSG]: tkamp says > cool night air. I think I dozed off for a while.
+[MSG]: tkamp says > 7
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: tkamp says > I was wakened by an odd rustling in my ears. After having had my eyes closed, I
+[MSG]: tkamp says > had a feeling that the light had grown even stronger than before. There wasn’t a trace
+[MSG]: tkamp says > of shadow anywhere, and every object, each curve or angle, seemed to score its
+[MSG]: tkamp says > outline on one’s eyes. The old people, Mother’s friends, were coming in. I counted
+[MSG]: tkamp says > ten in all, gliding almost soundlessly through the bleak white glare. None of the
+[MSG]: tkamp says > chairs creaked when they sat down. Never in my life had I seen anyone so clearly as
+[MSG]: tkamp says > I saw these people; not a detail of their clothes or features escaped me. And yet I
+[MSG]: tkamp says > couldn’t hear them, and it was hard to believe they really existed.
+[MSG]: tkamp says > Nearly all the women wore aprons, and the strings drawn tight round their waists
+[MSG]: tkamp says > made their big stomachs bulge still more. I’d never yet noticed what big paunches
+[MSG]: tkamp says > old women usually have. Most of the men, however, were as thin as rakes, and they
+[MSG]: tkamp says > all carried sticks. What struck me most about their faces was that one couldn’t see
+[MSG]: tkamp says > their eyes, only a dull glow in a sort of nest of wrinkles.
+[MSG]: tkamp says > On sitting down, they looked at me, and wagged their heads awkwardly, their lips
+[MSG]: tkamp says > sucked in between their toothless gums. I couldn’t decide if they were greeting me
+[MSG]: tkamp says > and trying to say something, or if it was due to some infirmity of age. I inclined to
+[MSG]: tkamp says > think that they were greeting me, after their fashion, but it had a queer effect, seeing
+[MSG]: tkamp says > all those old fellows grouped round the keeper, solemnly eying me and dandling their
+[MSG]: tkamp says > heads from side to side. For a moment I had an absurd impression that they had come
+[MSG]: tkamp says > to sit in judgment on me.
+[MSG]: tkamp says > A few minutes later one of the women started weeping. She was in the second row
+[MSG]: tkamp says > and I couldn’t see her face because of another woman in front. At regular intervals
+[MSG]: tkamp says > she emitted a little choking sob; one had a feeling she would never stop. The others
+[MSG]: tkamp says > didn’t seem to notice. They sat in silence, slumped in their chairs, staring at the
+[MSG]: tkamp says > coffin or at their walking sticks or any object just in front of them, and never took
+[MSG]: tkamp says > their eyes off it. And still the woman sobbed. I was rather surprised, as I didn’t know
+[MSG]: tkamp says > who she was. I wanted her to stop crying, but dared not speak to her. After a while
+[MSG]: tkamp says > the keeper bent toward her and whispered in her ear; but she merely shook her head,
+[MSG]: tkamp says > mumbled something I couldn’t catch, and went on sobbing as steadily as before.
+[MSG]: tkamp says > The keeper got up and moved his chair beside mine. At first he kept silent; then,
+[MSG]: tkamp says > without looking at me, he explained.
+[MSG]: tkamp says > “She was devoted to your mother. She says your mother was her only friend in the
+[MSG]: tkamp says > world, and now she’s all alone.”
+[MSG]: tkamp says > I had nothing to say, and the silence lasted quite a while. Presently the woman’s
+[MSG]: tkamp says > sighs and sobs became less frequent, and, after blowing her nose and snuffling for
+[MSG]: tkamp says > some minutes, she, too, fell silent.
+[MSG]: tkamp says > I’d ceased feeling sleepy, but I was very tired and my legs were aching badly. And
+[MSG]: tkamp says > now I realized that the silence of these people was telling on my nerves. The only
+[MSG]: tkamp says > sound was a rather queer one; it came only now and then, and at first I was puzzled
+[MSG]: tkamp says > by it. However, after listening attentively, I guessed what it was; the old men were
+[MSG]: tkamp says > 8
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: tkamp says > sucking at the insides of their cheeks, and this caused the odd, wheezing noises that
+[MSG]: tkamp says > had mystified me. They were so much absorbed in their thoughts that they didn’t
+[MSG]: tkamp says > know what they were up to. I even had an impression that the dead body in their
+[MSG]: tkamp says > midst meant nothing at all to them. But now I suspect that I was mistaken about this.
+[MSG]: tkamp says > We all drank the coffee, which the keeper handed round. After that, I can’t
+[MSG]: tkamp says > remember much; somehow the night went by. I can recall only one moment; I had
+[MSG]: tkamp says > opened my eyes and I saw the old men sleeping hunched up on their chairs, with one
+[MSG]: tkamp says > exception. Resting his chin on his hands clasped round his stick, he was staring hard
+[MSG]: tkamp says > at me, as if he had been waiting for me to wake. Then I fell asleep again. I woke up
+[MSG]: tkamp says > after a bit, because the ache in my legs had developed into a sort of cramp.
+[MSG]: tkamp says > There was a glimmer of dawn above the skylight. A minute or two later one of the
+[MSG]: tkamp says > old men woke up and coughed repeatedly. He spat into a big check handkerchief, and
+[MSG]: tkamp says > each time he spat it sounded as if he were retching. This woke the others, and the
+[MSG]: tkamp says > keeper told them it was time to make a move. They all got up at once. Their faces
+[MSG]: tkamp says > were ashen gray after the long, uneasy vigil. To my surprise each of them shook
+[MSG]: tkamp says > hands with me, as though this night together, in which we hadn’t exchanged a word,
+[MSG]: tkamp says > had created a kind of intimacy between us.
+[MSG]: tkamp says > I was quite done in. The keeper took me to his room, and I tidied myself up a bit.
+[MSG]: tkamp says > He gave me some more “white” coffee, and it seemed to do me good. When I went
+[MSG]: tkamp says > out, the sun was up and the sky mottled red above the hills between Marengo and the
+[MSG]: tkamp says > sea. A morning breeze was blowing and it had a pleasant salty tang. There was the
+[MSG]: tkamp says > promise of a very fine day. I hadn’t been in the country for ages, and I caught myself
+[MSG]: tkamp says > thinking what an agreeable walk I could have had, if it hadn’t been for Mother.
+[MSG]: tkamp says > As it was, I waited in the courtyard, under a plane tree. I sniffed the smells of the
+[MSG]: tkamp says > cool earth and found I wasn’t sleepy any more. Then I thought of the other fellows in
+[MSG]: tkamp says > the office. At this hour they’d be getting up, preparing to go to work; for me this was
+[MSG]: tkamp says > always the worst hour of the day. I went on thinking, like this, for ten minutes or so;
+[MSG]: tkamp says > then the sound of a bell inside the building attracted my attention. I could see
+[MSG]: tkamp says > movements behind the windows; then all was calm again. The sun had risen a little
+[MSG]: tkamp says > higher and was beginning to warm my feet. The keeper came across the yard and
+[MSG]: tkamp says > said the warden wished to see me. I went to his office and he got me to sign some
+[MSG]: tkamp says > document. I noticed that he was in black, with pin-stripe trousers. He picked up the
+[MSG]: tkamp says > telephone receiver and looked at me.
+[MSG]: tkamp says > “The undertaker’s men arrived some moments ago, and they will be going to the
+[MSG]: tkamp says > mortuary to screw down the coffin. Shall I tell them to wait, for you to have a last
+[MSG]: tkamp says > glimpse of your mother?”
+[MSG]: tkamp says > “No,” I said.
+[MSG]: tkamp says > He spoke into the receiver, lowering his voice. “That’s all right, Figeac. Tell the
+[MSG]: tkamp says > men to go there now.”
+[MSG]: tkamp says > 9
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: tkamp says > He then informed me that he was going to attend the funeral, and I thanked him.
+[MSG]: tkamp says > Sitting down behind his desk, he crossed his short legs and leaned back. Besides the
+[MSG]: tkamp says > nurse on duty, he told me, he and I would be the only mourners at the funeral. It was
+[MSG]: tkamp says > a rule of the Home that inmates shouldn’t attend funerals, though there was no
+[MSG]: tkamp says > objection to letting some of them sit up beside the coffin, the night before.
+[MSG]: tkamp says > “It’s for their own sakes,” he explained, “to spare their feelings. But in this
+[MSG]: tkamp says > particular instance I’ve given permission to an old friend of your mother to come
+[MSG]: tkamp says > with us. His name is Thomas Pérez.” The warden smiled. “It’s a rather touching little
+[MSG]: tkamp says > story in its way. He and your mother had become almost inseparable. The other old
+[MSG]: tkamp says > people used to tease Pérez about having a fiancée. ‘When are you going to marry
+[MSG]: tkamp says > her?’ they’d ask. He’d turn it with a laugh. It was a standing joke, in fact. So, as you
+[MSG]: tkamp says > can guess, he feels very badly about your mother’s death. I thought I couldn’t
+[MSG]: tkamp says > decently refuse him permission to attend the funeral. But, on our medical officer’s
+[MSG]: tkamp says > advice, I forbade him to sit up beside the body last night.”
+[MSG]: tkamp says > For some time we sat there without speaking. Then the warden got up and went to
+[MSG]: tkamp says > the window. Presently he said:
+[MSG]: tkamp says > “Ah, there’s the padre from Marengo. He’s a bit ahead of time.”
+[MSG]: tkamp says > He warned me that it would take us a good three quarters of an hour, walking to
+[MSG]: tkamp says > the church, which was in the village. Then we went downstairs.
+[MSG]: tkamp says > The priest was waiting just outside the mortuary door. With him were two
+[MSG]: tkamp says > acolytes, one of whom had a censer. The priest was stooping over him, adjusting the
+[MSG]: tkamp says > length of the silver chain on which it hung. When he saw us he straightened up and
+[MSG]: tkamp says > said a few words to me, addressing me as, “My son.” Then he led the way into the
+[MSG]: tkamp says > mortuary.
+[MSG]: tkamp says > I noticed at once that four men in black were standing behind the coffin and the
+[MSG]: tkamp says > screws in the lid had now been driven home. At the same moment I heard the warden
+[MSG]: tkamp says > remark that the hearse had arrived, and the priest starting his prayers. Then
+[MSG]: tkamp says > everybody made a move. Holding a strip of black cloth, the four men approached the
+[MSG]: tkamp says > coffin, while the priest, the boys, and myself filed out. A lady I hadn’t seen before
+[MSG]: tkamp says > was standing by the door. “This is Monsieur Meursault,” the warden said to her. I
+[MSG]: tkamp says > didn’t catch her name, but I gathered she was a nursing sister attached to the Home.
+[MSG]: tkamp says > When I was introduced, she bowed, without the trace of a smile on her long, gaunt
+[MSG]: tkamp says > face. We stood aside from the doorway to let the coffin by; then, following the
+[MSG]: tkamp says > bearers down a corridor, we came to the front entrance, where a hearse was waiting.
+[MSG]: tkamp says > Oblong, glossy, varnished black all over, it vaguely reminded me of the pen trays in
+[MSG]: tkamp says > the office.
+[MSG]: tkamp says > Beside the hearse stood a quaintly dressed little -man, whose duty it was, I
+[MSG]: tkamp says > understood, to supervise the funeral, as a sort of master of ceremonies. Near him,
+[MSG]: tkamp says > looking constrained, almost bashful, was old M. Pérez, my mother’s special friend.
+[MSG]: tkamp says > He wore a soft felt hat with a pudding-basin crown and a very wide brim—he
+[MSG]: tkamp says > 10
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: tkamp says > whisked it off the moment the coffin emerged from the doorway—trousers that
+[MSG]: tkamp says > concertina’d on his shoes, a black tie much too small for his high white double collar.
+[MSG]: tkamp says > Under a bulbous, pimply nose, his lips were trembling. But what caught my attention
+[MSG]: tkamp says > most was his ears; pendulous, scarlet ears that showed up like blobs of sealing wax
+[MSG]: tkamp says > on the pallor of his cheeks and were framed in wisps of silky white hair.
+[MSG]: tkamp says > The undertaker’s factotum shepherded us to our places, with the priest in front of
+[MSG]: tkamp says > the hearse, and the four men in black on each side of it. The warden and myself came
+[MSG]: tkamp says > next, and, bringing up the rear, old Pérez and the nurse.
+[MSG]: tkamp says > The sky was already a blaze of light, and the air stoking up rapidly. I felt the first
+[MSG]: tkamp says > waves of heat lapping my back, and my dark suit made things worse. I couldn’t
+[MSG]: tkamp says > imagine why we waited so long for getting under way. Old Pérez, who had put on his
+[MSG]: tkamp says > hat, took it off again. I had turned slightly in his direction and was looking at him
+[MSG]: tkamp says > when the warden started telling me more about him. I remember his saying that old
+[MSG]: tkamp says > Pérez and my mother used often to have a longish stroll together in the cool of the
+[MSG]: tkamp says > evening; sometimes they went as far as the village, accompanied by a nurse, of
+[MSG]: tkamp says > course.
+[MSG]: tkamp says > I looked at the countryside, at the long lines of cypresses sloping up toward the
+[MSG]: tkamp says > skyline and the hills, the hot red soil dappled with vivid green, and here and there a
+[MSG]: tkamp says > lonely house sharply outlined against the light—and I could understand Mother’s
+[MSG]: tkamp says > feelings. Evenings in these parts must be a sort of mournful solace. Now, in the full
+[MSG]: tkamp says > glare of the morning sun, with everything shimmering in the heat haze, there was
+[MSG]: tkamp says > something inhuman, discouraging, about this landscape.
+[MSG]: tkamp says > At last we made a move. Only then I noticed that Pérez had a slight limp. The old
+[MSG]: tkamp says > chap steadily lost ground as the hearse gained speed. One of the men beside it, too,
+[MSG]: tkamp says > fell back and drew level with me. I was surprised to see how quickly the sun was
+[MSG]: tkamp says > climbing up the sky, and just then it struck me that for quite a while the air had been
+[MSG]: tkamp says > throbbing with the hum of insects and the rustle of grass warming up. Sweat was
+[MSG]: tkamp says > running down my face. As I had no hat I tried to fan myself with my handkerchief.
+[MSG]: tkamp says > The undertaker’s man turned to me and said something that I didn’t catch. At that
+[MSG]: tkamp says > same time he wiped the crown of his head with a handkerchief that he held in his left
+[MSG]: tkamp says > hand, while with his right he tilted up his hat. I asked him what he’d said. He pointed
+[MSG]: tkamp says > upward.
+[MSG]: tkamp says > “Sun’s pretty bad today, ain’t it?”
+[MSG]: tkamp says > “Yes,” I said.
+[MSG]: tkamp says > After a while he asked: “Is it your mother we’re burying?”
+[MSG]: tkamp says > “Yes,” I said again.
+[MSG]: tkamp says > “What was her age?”
+[MSG]: tkamp says > “Well, she was getting on.” As a matter of fact, I didn’t know exactly how old she
+[MSG]: tkamp says > was.
+[MSG]: tkamp says > 11
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: tkamp says > After that he kept silent. Looking back, I saw Pérez limping along some fifty yards
+[MSG]: tkamp says > behind. He was swinging his big felt hat at arm’s length, trying to make the pace. I
+[MSG]: tkamp says > also had a look at the warden. He was walking with carefully measured steps,
+[MSG]: tkamp says > economizing every gesture. Beads of perspiration glistened on his forehead, but he
+[MSG]: tkamp says > didn’t wipe them off.
+[MSG]: tkamp says > I had an impression that our little procession was moving slightly faster. Wherever
+[MSG]: tkamp says > I looked I saw the same sun-drenched countryside, and the sky was so dazzling that I
+[MSG]: tkamp says > dared not raise my eyes. Presently we struck a patch of freshly tarred road. A
+[MSG]: tkamp says > shimmer of heat played over it and one’s feet squelched at each step, leaving bright
+[MSG]: tkamp says > black gashes. In front, the coachman’s glossy black hat looked like a lump of the
+[MSG]: tkamp says > same sticky substance, poised above the hearse. It gave one a queer, dreamlike
+[MSG]: tkamp says > impression, that blue-white glare overhead and all this blackness round one: the sleek
+[MSG]: tkamp says > black of the hearse, the dull black of the men’s clothes, and the silvery-black gashes
+[MSG]: tkamp says > in the road. And then there were the smells, smells of hot leather and horse dung
+[MSG]: tkamp says > from the hearse, veined with whiffs of incense smoke. What with these and the
+[MSG]: tkamp says > hangover from a poor night’s sleep, I found my eyes and thoughts growing blurred.
+[MSG]: tkamp says > I looked back again. Pérez seemed very far away now, almost hidden by the heat
+[MSG]: tkamp says > haze; then, abruptly, he disappeared altogether. After puzzling over it for a bit, I
+[MSG]: tkamp says > guessed that he had turned off the road into the fields. Then I noticed that there was a
+[MSG]: tkamp says > bend of the road a little way ahead. Obviously Pérez, who knew the district well, had
+[MSG]: tkamp says > taken a short cut, so as to catch up with us. He rejoined us soon after we were round
+[MSG]: tkamp says > the bend; then began to lose ground again. He took another short cut and met us
+[MSG]: tkamp says > again farther on; in fact, this happened several times during the next half-hour. But
+[MSG]: tkamp says > soon I lost interest in his movements; my temples were throbbing and I could hardly
+[MSG]: tkamp says > drag myself along.
+[MSG]: tkamp says > After that everything went with a rush; and also with such precision and matter-offactness
+[MSG]: tkamp says > that I remember hardly any details. Except that when we were on the
+[MSG]: tkamp says > outskirts of the village the nurse said something to me. Her voice took me by
+[MSG]: tkamp says > surprise; it didn’t match her face at all; it was musical and slightly tremulous. What
+[MSG]: tkamp says > she said was: “If you go too slowly there’s the risk of a heatstroke. But, if you go too
+[MSG]: tkamp says > fast, you perspire, and the cold air in the church gives you a chill.” I saw her point;
+[MSG]: tkamp says > either way one was in for it.
+[MSG]: tkamp says > Some other memories of the funeral have stuck in my mind. The old boy’s face,
+[MSG]: tkamp says > for instance, when he caught up with us for the last time, just outside the village. His
+[MSG]: tkamp says > eyes were streaming with tears, of exhaustion or distress, or both together. But
+[MSG]: tkamp says > because of the wrinkles they couldn’t flow down. They spread out, crisscrossed, and
+[MSG]: tkamp says > formed a smooth gloss on the old, worn face.
+[MSG]: tkamp says > And I can remember the look of the church, the villagers in the street, the red
+[MSG]: tkamp says > geraniums on the graves, Pérez’s fainting fit—he crumpled up like a rag doll—the
+[MSG]: tkamp says > tawny-red earth pattering on Mother’s coffin, the bits of white roots mixed up with it;
+[MSG]: tkamp says > 12
+[MSG]: tkamp says > Albert Camus  THE STRANGER
+[MSG]: tkamp says > then more people, voices, the wait outside a café for the bus, the rumble of the
+[MSG]: tkamp says > engine, and my little thrill of pleasure when we entered the first brightly lit streets of
+[MSG]: tkamp says > Algiers, and I pictured myself going straight to bed and sleeping twelve hours at a
+[MSG]: fentinman has joined.
+[MSG]: fentinman left the chat.
+Server closed connection : false

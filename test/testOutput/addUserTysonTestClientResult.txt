@@ -1,0 +1,5 @@
+Connecting to 8080
+[MSG]: User admin authenticated successfully.
+[MSG]: User tkamp added successfully.
+[MSG]: Goodbye.
+Quitting.
